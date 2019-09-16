@@ -1,12 +1,18 @@
 
 
-body {background-color: #696b6a; background-image: url("myBackground.jpg"); text-align: center;}
+body {background-color: red; text-align: center;}
 
 #nav-table {width: 800px; margin-left: 300px;}
 
 #nav-th {width: 200px;}
 
 p {text-align: center; color: #40b6d6; font-size: 50px;}
+
+#volley {margin-left: 500px}
+
+#aboutbody {background-image: url("myBackground.jpg");}
+
+h1 {color: #b3d3f2;}
 
 
 
