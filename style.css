@@ -1,5 +1,4 @@
 
-
 body {background-color: red; text-align: center;}
 
 #nav-table {width: 800px; margin-left: 300px;}
@@ -8,12 +7,17 @@ body {background-color: red; text-align: center;}
 
 p {text-align: center; color: #40b6d6; font-size: 50px;}
 
-#volley {margin-left: 500px}
+#volley {float: left; margin-left:300px;}
+
+#crew {float: left; margin-left: 100px;}
+
+#tyler2 {float: right; margin-right: 500px;}
+
+#tyler {float: none; margin-left: 300px;}
 
 #aboutbody {background-image: url("myBackground.jpg");}
 
 h1 {color: #b3d3f2;}
-
 
 
 
